@@ -9,6 +9,7 @@ public class Main {
         result3 = a + b / x - y;
         result4 = X - e / 2 % e + 1;
 
+
         System.out.println(result1);
         System.out.println(result2);
         System.out.println(result3);
